@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Python
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/ritu-mahato-3456581b4/)
-- 😄 Pronouns: ... Her
+- 😄 Pronouns: ... She/Her
 
